@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AutoUpdate>
+  <Pkg updateCondition="IfHigher" version="3.5.1-fix" buildUID="C95F8B61-52F2-4EA2-BF1B-97BA5BA9E520" />
+</AutoUpdate>
